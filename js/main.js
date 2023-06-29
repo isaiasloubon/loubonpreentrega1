@@ -1,4 +1,4 @@
-alert("Bienvenidos a Indumentaria Shoes!");
+alert("Bienvenidos a Indumentaria Shoes!!");
     
       let numero;
 
